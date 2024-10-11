@@ -8,17 +8,17 @@ ING_WILLIAMS_E</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 
+- I am currently learning SQL and MySQL.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+-  I am learning C, C++, and C# to improve my skills, at least the basics. 📚
 
-- 🤝 I’m available for freelancing.
+- I am studying English.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- I want to specialize in ethical hacking. 💻
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- I like chess. ♟️ 
 
-- 💬
+- I like mathematics and physics.
 
 - 📫 How to reach me **ingwilliamsespinosa@gmail.com**
 
@@ -31,8 +31,6 @@ ING_WILLIAMS_E</a></h1>
 
 # About Me :
  ¡Hola! Soy un apasionado estudiante de 18 años de Ingeniería en Software en México. Me encanta explorar el mundo de la programación y siempre estoy en busca de nuevos retos que me ayuden a crecer como desarrollador.
-
-♟️ Además de la programación, tengo una gran afición por el ajedrez. Creo que ambos, la programación y el ajedrez, requieren pensamiento estratégico y creatividad, lo que me motiva a seguir mejorando en ambas áreas.
 
 💻 En este perfil, encontrarás algunos de mis proyectos y experimentos. Estoy abierto a colaboraciones y siempre listo para aprender de la comunidad. ¡No dudes en conectar conmigo!
 
