@@ -49,20 +49,6 @@ ING_WILLIAMS_E</a></h1>
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
 # About Me :
  ¡Hola! Soy un apasionado estudiante de 18 años de Ingeniería en Software en México. Me encanta explorar el mundo de la programación y siempre estoy en busca de nuevos retos que me ayuden a crecer como desarrollador.
 
