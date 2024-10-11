@@ -30,7 +30,7 @@ ING_WILLIAMS_E</a></h1>
 
 
 # About Me :
- ¡Hola! Soy un apasionado estudiante de 18 años de Ingeniería en Software en México. Me encanta explorar el mundo de la programación y siempre estoy en busca de nuevos retos que me ayuden a crecer como desarrollador.
+  Soy un apasionado estudiante de 18 años de Ingeniería en Software en México. Me encanta explorar el mundo de la programación y siempre estoy en busca de nuevos retos que me ayuden a crecer como desarrollador.
 
 💻 En este perfil, encontrarás algunos de mis proyectos y experimentos. Estoy abierto a colaboraciones y siempre listo para aprender de la comunidad. ¡No dudes en conectar conmigo!
 
@@ -59,14 +59,6 @@ ING_WILLIAMS_E</a></h1>
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 
 </p>        
