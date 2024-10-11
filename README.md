@@ -52,7 +52,7 @@ I-WCODE</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mysql,nextjs,py,react,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mysql,nextjs,py,react,vscode,&perline=14" />
   </a>
 </p>
 
