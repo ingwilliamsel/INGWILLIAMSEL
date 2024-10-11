@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm <a href="https://github.com/ingwilliamsel" target="blank">
 ING_WILLIAMS_E</a></h1>
-<h3 align="center">Claro, aquí tienes la frase en inglés:
+<h3 align="center">
 
 "I am passionate about programming and building apps for iOS and Android"</h3>
 
