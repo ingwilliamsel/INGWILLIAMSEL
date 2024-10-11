@@ -2,7 +2,7 @@
 ING_WILLIAMS_E</a></h1>
 <h3 align="center">
 
-"I am passionate about programming and building apps for iOS and Android"</h3>
+"I am passionate about programming"</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -10,7 +10,7 @@ ING_WILLIAMS_E</a></h1>
 
 - I am currently learning SQL and MySQL.
 
--  I am learning C, C++, and C# to improve my skills, at least the basics. 📚
+-  I am learning C to improve my skills, at least the basics. 📚
 
 - I am studying English.
 
